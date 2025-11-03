@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.impar{
+    background-color: lightpink;
+    font-family: Verdana, Dejavu Sans, sans-serif;
+}
+.cooler-class{
+    font-size: 24px;
+}
+#id1{
+    color: blue;
+    font-size: 36px;
+}
+#id2{
+    background-color: lightgreen;
+    font-weight: bold;
+}

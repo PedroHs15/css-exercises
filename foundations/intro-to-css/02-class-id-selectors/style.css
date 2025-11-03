@@ -1,7 +1,7 @@
 /* Add CSS Styling */
 .impar{
     background-color: lightpink;
-    font-family: Verdana, Dejavu Sans, sans-serif;
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
 }
 .cooler-class{
     font-size: 24px;

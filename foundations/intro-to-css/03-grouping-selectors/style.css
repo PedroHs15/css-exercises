@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.click1{
+    background-color: red;
+    color: lightblue;
+}
+.click2{
+    background-color: blueviolet;
+}
+.click1,
+.click2{
+    font-size: 28px;
+    font-family: helvetica, 'Times new roman', sans-serif;
+}
